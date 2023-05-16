@@ -73,5 +73,6 @@
       "Stock": 8
     }
   ],
-  "orders":[]
+  "orders":[],
+  "expense_data":[]
 }
